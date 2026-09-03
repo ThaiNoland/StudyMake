@@ -1,3 +1,6 @@
+Никитушка внес изменения :)
+
+
 Simple project for study makefiles
 =====================
 
